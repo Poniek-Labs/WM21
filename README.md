@@ -1,15 +1,15 @@
-# Poniek Labs WM40 Webmail Service
+# Poniek Labs WM21 21st Century Webmail
 Based on Snappymail, from the creators of Snappymail.
 Licence: **GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (AGPL)**
 
-NOTE: this is our in house version of Snappymail intended to power our MapleMail Webmail client at mail.poniek.ca/WM40 (redirects from mail.poniek.ca).
-If you choose to use this software please understand that you must immediately replace all MapleMail Logos, Branding, Poniek Labs Logos, Branding or any other branding belonging to **Poniek Labs Canada**
+NOTE: this is our in house version of Snappymail intended to power our MapleMail Webmail client at mail.poniek.ca/WM21 (redirects from mail.poniek.ca).
+If you choose to use, modify or fork this software please understand that you must adhere to the, Branding, Poniek Labs Logos, Branding or any other branding belonging to **Poniek Labs Canada**
 
 
 
 <div align="center">
   <a href="https://github.com/the-djmaze/snappymail">
-    <img src="https://snappymail.eu/static/img/logo-256x256-white.png">
+    <img src="logos/WM21-Logo.png">
   </a>
   <br>
   <h1>SnappyMail</h1>
